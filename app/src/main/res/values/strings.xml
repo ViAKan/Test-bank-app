@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Test bank app</string>
+    <string name="data">Данные карты</string>
+    <string name="history">История поиска</string>
 </resources>
